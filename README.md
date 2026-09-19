@@ -33,6 +33,6 @@
 * The model is low-cost, simple to operate, and easy to demonstrate.  
     
   **Product Image**![Result](Result.jpeg)   
-  **product Image**![ciruit](Circuit.jpeg) 
+  **product Image**![ciruit](circuit.jpeg) 
 
 
